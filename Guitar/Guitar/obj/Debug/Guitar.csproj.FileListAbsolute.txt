@@ -1,0 +1,6 @@
+/Users/macintoshhd/Desktop/Guitar/Guitar/bin/Debug/Guitar.exe
+/Users/macintoshhd/Desktop/Guitar/Guitar/bin/Debug/Guitar.pdb
+/Users/macintoshhd/Desktop/Guitar/Guitar/obj/Debug/Guitar.csprojAssemblyReference.cache
+/Users/macintoshhd/Desktop/Guitar/Guitar/obj/Debug/Guitar.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Desktop/Guitar/Guitar/obj/Debug/Guitar.exe
+/Users/macintoshhd/Desktop/Guitar/Guitar/obj/Debug/Guitar.pdb
